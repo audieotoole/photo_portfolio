@@ -48,13 +48,13 @@ class AboutPage extends React.Component {
 						<Link className="link-button" to="/contact">
 							Contact me
 						</Link>
-						<a href="https://www.twitter.com/doorman_t" target="blank">
+						<a href="https://www.twitter.com/audieotoole" target="blank">
 							<FaTwitter className="react-icons" />
 						</a>
-						<a href="https://www.github.com/infiniteoo" target="blank">
+						<a href="https://www.github.com/audieotoole" target="blank">
 							<FaGithub className="react-icons" />
 						</a>
-						<a href="https://infiniteoo.github.io/react_portfolio_2021/" target="blank">
+						<a href="https://potatoproductions.netlify.app" target="blank">
 							<FaLink className="react-icons" />
 						</a>
 					</div>
