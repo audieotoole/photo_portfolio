@@ -22,6 +22,4 @@ When I'm not coding I like taking pictures.  This is a portfolio website showcas
 
 
 ## Live Site:
-## https://troypics.netlify.app/
-
-![example gif](./example.gif)
+## https://audie-pics.netlify.app/
